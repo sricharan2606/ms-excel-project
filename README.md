@@ -1,2 +1,2 @@
 # ms-excel-project
-excel project by using pivot tables by charan
+excel project using pivot tables 
